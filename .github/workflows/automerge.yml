@@ -26,5 +26,5 @@ jobs:
         uses: "pascalgn/automerge-action@v0.15.6"
         env:
           MERGE_LABELS: "!wip,!Block"
-          GITHUB_TOKEN: "${{ secrets.AUTOMERGE_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           LOG: "DEBUG"
