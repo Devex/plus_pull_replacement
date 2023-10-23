@@ -27,3 +27,4 @@ jobs:
         env:
           MERGE_LABELS: "!wip,!Block"
           GITHUB_TOKEN: "${{ secrets.AUTOMERGE_TOKEN }}"
+          LOG: "DEBUG"
