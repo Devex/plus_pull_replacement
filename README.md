@@ -3,7 +3,9 @@
 Hackdays@Devex code review
 
 ## Plus Pull
-[christofdamian/plus-pull: Script that checks pull requests and merges them if they satisfy certain requirements.](https://github.com/christofdamian/plus-pull)
+
+[christofdamian/plus-pull](https://github.com/christofdamian/plus-pull)
+Script that checks pull requests and merges them if they satisfy certain requirements.
 
 ## Github Docs
 
@@ -14,8 +16,7 @@ Hackdays@Devex code review
 - [Merging a pull request with a merge queue - GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request-with-a-merge-queue)
 - [About code owners - GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
-
-![Screenshot 2023-10-23 at 09-52-00 Settings · Branches · New branch protection rule · agustibr_plus_pull_replacement](https://github.com/agustibr/plus_pull_replacement/assets/210216/2817e547-c661-4c00-a289-7cf0ed013011)
+![Screenshot](https://github.com/agustibr/plus_pull_replacement/assets/210216/2817e547-c661-4c00-a289-7cf0ed013011)
 
 ---
 
