@@ -2,6 +2,8 @@
 
 Hackdays@Devex code review
 
+test auto merge
+
 ## Plus Pull
 
 [christofdamian/plus-pull](https://github.com/christofdamian/plus-pull)
