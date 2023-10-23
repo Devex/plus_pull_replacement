@@ -1,6 +1,6 @@
 # plus_pull_replacement
 
-Hackdays@Devex code review test
+Hackdays@Devex code review
 
 ## Plus Pull
 
