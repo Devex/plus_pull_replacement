@@ -35,4 +35,3 @@ jobs:
           MERGE_LABELS: "!wip,!Block"
           MERGE_METHOD: "rebase"
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          LOG: "DEBUG"
