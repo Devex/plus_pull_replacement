@@ -17,6 +17,13 @@ on:
     types:
       - completed
   status: {}
+
+permissions:
+  pull-requests: write
+  contents: write
+  issues: write
+  repository-projects: read
+
 jobs:
   automerge:
     runs-on: ubuntu-latest
@@ -25,5 +32,6 @@ jobs:
         name: automerge
         uses: "pascalgn/automerge-action@v0.15.6"
         env:
-          MERGE_LABELS: "!wip,!Block"
+          MERGE_LABELS: "auto"
+          MERGE_METHOD: "rebase"
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
